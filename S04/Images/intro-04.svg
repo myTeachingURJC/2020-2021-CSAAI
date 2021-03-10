@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="615.25842mm"
+   height="535.87604mm"
+   viewBox="0 0 615.25844 535.87604"
+   version="1.1"
+   id="svg1099"
+   inkscape:version="1.0.2 (1c82d34291, 2021-03-05)"
+   sodipodi:docname="intro-04.svg">
+  <defs
+     id="defs1093">
+    <marker
+       style="overflow:visible"
+       id="marker1521"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1519" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1511"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1509" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1185" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1432"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1430" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1143" />
+    </marker>
+    <filter
+       id="filter41170"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB"
+       y="0"
+       x="0">
+      <feColorMatrix
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic"
+         id="feColorMatrix2038" />
+      <feColorMatrix
+         result="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix2040" />
+      <feColorMatrix
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         id="feColorMatrix2042" />
+      <feColorMatrix
+         values="1"
+         in="fbSourceGraphic"
+         type="saturate"
+         result="fbSourceGraphic"
+         id="feColorMatrix2044" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         id="feColorMatrix2046" />
+    </filter>
+    <linearGradient
+       id="linearGradient44294"
+       y2="19.302999"
+       gradientUnits="userSpaceOnUse"
+       x2="43.07"
+       gradientTransform="matrix(0.997,0.0773,-0.0773,0.997,19.516282,25.178667)"
+       y1="27.542"
+       x1="15.985">
+      <stop
+         stop-color="#EBEBEB"
+         offset="0"
+         id="stop2049" />
+      <stop
+         stop-color="#EAEAEA"
+         offset="1"
+         id="stop2051" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient44296"
+       y2="33.207001"
+       gradientUnits="userSpaceOnUse"
+       x2="27.986"
+       gradientTransform="matrix(0.997,0.0773,-0.0773,0.997,19.516282,25.178667)"
+       y1="58.056999"
+       x1="16.202999">
+      <stop
+         stop-color="#F8F8F8"
+         offset="0"
+         id="stop2054" />
+      <stop
+         stop-color="#C9C9C9"
+         offset="1"
+         id="stop2056" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient44298"
+       y2="21.948999"
+       gradientUnits="userSpaceOnUse"
+       x2="45.292999"
+       gradientTransform="matrix(0.997,0.0773,-0.0773,0.997,19.516282,25.178667)"
+       y1="61.979"
+       x1="32.598999">
+      <stop
+         stop-color="#dbdbdb"
+         offset="0"
+         id="stop2059" />
+      <stop
+         stop-color="#828282"
+         offset="1"
+         id="stop2061" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient44300"
+       y2="31.014999"
+       gradientUnits="userSpaceOnUse"
+       x2="32.953999"
+       gradientTransform="translate(-48.714648,47.884434)"
+       y1="24.493"
+       x1="36.438">
+      <stop
+         stop-color="#FFF"
+         offset="0"
+         id="stop2064" />
+      <stop
+         stop-color="#FFF"
+         offset="1"
+         id="stop2066" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient44302"
+       y2="30.708"
+       gradientUnits="userSpaceOnUse"
+       x2="32.953999"
+       gradientTransform="translate(-48.714648,47.884434)"
+       y1="24.184999"
+       x1="36.438999">
+      <stop
+         stop-color="#000"
+         offset="0"
+         id="stop2069" />
+      <stop
+         stop-color="#6A6A6A"
+         offset="1"
+         id="stop2071" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient44304"
+       y2="32.286999"
+       gradientUnits="userSpaceOnUse"
+       x2="26.002001"
+       gradientTransform="translate(12.486655,33.427377)"
+       y1="32.286999"
+       x1="21.110001">
+      <stop
+         stop-color="#e7ebef"
+         offset="0"
+         id="stop2074" />
+      <stop
+         stop-color="#c4ce00"
+         offset="1"
+         id="stop2076" />
+    </linearGradient>
+    <filter
+       id="filter52861"
+       height="1"
+       width="1"
+       color-interpolation-filters="sRGB"
+       y="0"
+       x="0">
+      <feColorMatrix
+         result="result2"
+         type="saturate"
+         values="1"
+         in="SourceGraphic"
+         id="feColorMatrix2079" />
+      <feFlood
+         result="result1"
+         flood-opacity="1"
+         flood-color="rgb(254,102,0)"
+         id="feFlood2081" />
+      <feBlend
+         result="result3"
+         in="result1"
+         in2="result2"
+         mode="multiply"
+         id="feBlend2083" />
+      <feComposite
+         operator="in"
+         in2="SourceGraphic"
+         result="result4"
+         id="feComposite2085" />
+    </filter>
+    <linearGradient
+       id="linearGradient3145">
+      <stop
+         id="stop3147"
+         offset="0"
+         style="stop-color:#828282;stop-opacity:1;" />
+      <stop
+         style="stop-color:#787878;stop-opacity:1;"
+         offset="0.5"
+         id="stop3149" />
+      <stop
+         id="stop3151"
+         offset="0.75999999"
+         style="stop-color:#7f7f7f;stop-opacity:1;" />
+      <stop
+         style="stop-color:#7d7d7d;stop-opacity:1;"
+         offset="1"
+         id="stop3153" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3145"
+       id="radialGradient3143"
+       cx="82.254112"
+       cy="407.34015"
+       fx="82.254112"
+       fy="407.34015"
+       r="4.0429993"
+       gradientTransform="matrix(6.190509,0,0,2.1053549,-847.85341,-632.14454)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3081">
+      <stop
+         id="stop3083"
+         offset="0"
+         style="stop-color:#d9d9d9;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ebebeb;stop-opacity:1;"
+         offset="0.5"
+         id="stop3089" />
+      <stop
+         id="stop3091"
+         offset="0.75999999"
+         style="stop-color:#ebebeb;stop-opacity:1;" />
+      <stop
+         style="stop-color:#c5c5c5;stop-opacity:1;"
+         offset="1"
+         id="stop3087" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3081"
+       id="linearGradient3079"
+       x1="44.188786"
+       y1="393.5625"
+       x2="118.06379"
+       y2="393.5625"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.190509,0,0,6.190509,-847.85341,-2296.1917)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3121"
+       id="linearGradient3127"
+       x1="40.530365"
+       y1="408.53125"
+       x2="121.72221"
+       y2="408.53125"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.190509,0,0,6.190509,-847.85341,-2296.1917)" />
+    <linearGradient
+       id="linearGradient3121">
+      <stop
+         style="stop-color:#adadad;stop-opacity:1;"
+         offset="0"
+         id="stop3123" />
+      <stop
+         style="stop-color:#cacaca;stop-opacity:1;"
+         offset="1"
+         id="stop3125" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3121"
+       id="linearGradient3135"
+       x1="50.165428"
+       y1="365.50964"
+       x2="112.07718"
+       y2="365.50964"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.190509,0,0,6.190509,-847.85341,-2296.1917)" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-76"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path927-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-76-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path927-7-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1708.8797"
+     inkscape:cy="971.5462"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata1096">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(633.40747,243.87447)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.451347;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1292"
+       width="615.25842"
+       height="535.87604"
+       x="-633.40747"
+       y="-243.87447"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(633.40747,243.87447)"
+     style="opacity:1">
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       id="rect2211"
+       d="m -496.45106,-173.1688 c -21.80735,0.23153 -39.27105,0.43705 -39.27105,18.90804 v 32.71195 161.231189 c 0,0.872676 -0.077,1.758166 0,2.613695 v 63.871686 h 380.13592 V 42.786114 -121.54881 -154.26076 c 0,-18.61691 -17.61088,-18.90804 -39.65794,-18.90804 h -300.82001 c -0.1723,0 -0.2152,-0.002 -0.38692,0 z"
+       style="fill:url(#linearGradient3135);fill-opacity:1;stroke:#000000;stroke-width:3.09525;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect2213"
+       d="m -535.80501,106.22929 -59.5837,109.44374 h 158.24492 31.72635 119.55421 38.69068 151.280569 L -155.47563,106.22929 h -91.69692 -98.46779 -91.50345 z"
+       style="fill:#d6d6d6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.09525;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect2215"
+       d="m -595.38871,215.60729 v 12.38101 c -0.03,0.29963 0,0.65948 0,0.96727 v 6.57742 5.61015 c 0,4.92437 3.9745,8.89892 8.8989,8.89885 h 481.69898 c 4.924369,0 8.898849,-3.97455 8.898849,-8.89885 v -5.61015 -6.57742 c 0,-0.30766 0.031,-0.6677 0,-0.96727 v -12.38101 z"
+       style="fill:url(#linearGradient3127);fill-opacity:1;stroke:#000000;stroke-width:3.09525;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-156.17633"
+       x="-522.35803"
+       height="248.3226"
+       width="352.88412"
+       id="rect2232"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.09525;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path2236"
+       d="m -535.80501,106.30612 -36.9497,67.70869 h 454.22869 l -36.94961,-67.70869 h -91.69692 -98.46779 -91.50345 z"
+       style="fill:url(#linearGradient3079);fill-opacity:1;stroke:#000000;stroke-width:3.09525;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path2258"
+       d="m -392.97343,177.68961 h 101.50542 l 8.89507,33.39303 h -115.0727 z"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.09525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path2268"
+       d="m -362.06638,218.48687 c -0.22701,2.29624 0.09,4.3443 0.7738,5.99705 2.34471,5.40704 8.35901,7.6727 9.09232,7.93159 0,0 5.26136,0 8.7054,0 3.82671,0 6.03994,0 9.67266,0 3.44404,0 8.70542,0 8.70541,0 0,0 6.59132,-2.16408 9.09231,-7.93159 0.68375,-1.65275 1.00083,-3.70081 0.77382,-5.99705 h -18.57154 -9.67266 z"
+       style="fill:url(#radialGradient3143);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.09525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m -220.61394,32.7819 c 1.03024,-3.888116 1.37358,-7.893227 1.37358,-12.132275 0,-29.6145022 -21.7399,-51.540304 -47.23081,-51.540304 -22.10967,0 -46.70241,19.031543 -46.70241,52.271223 0,26.340158 19.62661,50.487843 48.18169,50.487843 15.92855,-1.05302 27.31358,-8.361089 35.66084,-19.791718 l -17.40775,-16.517428 6.33969,-11.284577 z m 43.58539,35.695223 c 0,4.677614 -3.53965,10.465982 -10.27547,10.465982 h -121.9073 c -5.89065,0 -10.46051,-4.940574 -10.46051,-10.904397 v -94.95351 c 0,-7.279364 5.75864,-11.079844 9.93227,-11.079844 h 122.48833 c 5.83782,0 10.22268,5.3499 10.22268,10.729 z m -28.89842,0.145966 c 2.8793,2.075705 5.17747,3.362066 7.9774,3.362066 6.86806,0 11.17379,-6.139266 11.17379,-11.723003 0,-6.197748 -3.27548,-9.822774 -7.92464,-12.22004 l -43.92888,-18.359307 -2.77361,5.233034 z m 13.65682,-8.390222 c 0,2.748056 -2.08684,4.619024 -4.01519,4.619024 -3.19622,0 -4.33207,-2.981884 -4.33207,-4.385099 0,-3.537411 2.6943,-4.73604 4.12078,-4.73604 2.43019,0 4.22648,2.16333 4.22648,4.502115 z m -59.27626,-39.495714 c 0,9.296497 -7.23787,15.903462 -14.2908,15.903462 -8.98122,0 -15.00389,-7.659444 -15.00389,-15.581967 -0.13188,-9.647286 6.81508,-16.8390202 15.03036,-16.5173732 7.36989,0 14.26433,6.7530812 14.26433,16.1958782 z"
+       fill="#505050"
+       stroke="none"
+       pointer-events="all"
+       id="path1003"
+       style="opacity:0.36195;stroke-width:0.930308" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="-247.0696"
+       y="-45.750072"
+       id="text817-36-5-7-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"><tspan
+         sodipodi:role="line"
+         x="-247.0696"
+         y="-45.750072"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.696059"
+         id="tspan4052">Sistema de ficheros</tspan></text>
+    <g
+       id="g1112"
+       transform="translate(-33.622715,-88.340642)">
+      <ellipse
+         style="fill:#ffdd55;stroke:#000000;stroke-width:0.368924;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="ellipse2444"
+         cx="-412.9736"
+         cy="36.874489"
+         rx="19.409418"
+         ry="18.401236" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.485px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.34282"
+         x="-414.69391"
+         y="43.736088"
+         id="text2448"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"><tspan
+           sodipodi:role="line"
+           x="-414.69391"
+           y="43.736088"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.34282"
+           id="tspan2446">JS</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="-436.7486"
+       y="-96.346512"
+       id="text2456"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"><tspan
+         sodipodi:role="line"
+         x="-436.74863"
+         y="-96.346512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059"
+         id="tspan2454">Ejecución de programa JS</tspan><tspan
+         sodipodi:role="line"
+         x="-436.7486"
+         y="-82.425385"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059"
+         id="tspan1147">en ordenador</tspan></text>
+    <g
+       id="g1064"
+       transform="translate(-220.63935,27.246876)">
+      <path
+         style="fill:#fff6d5;stroke:#000000;stroke-width:0.742229;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -87.143793,7.8380183 h 23.18162 l 6.12763,6.1301697 v 31.83252 h -29.01395 z"
+         id="path1943"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.742229;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -79.822803,21.562938 h 15.0518"
+         id="path1945"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.742229;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -79.822803,25.926688 h 15.0518"
+         id="path1947"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.742229;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -79.822803,31.042808 h 15.0518"
+         id="path1949"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.742229;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -79.822803,35.857978 h 15.0518"
+         id="path1951"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.742229;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -79.822803,40.974098 h 15.0518"
+         id="path1953"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.74223;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect1955"
+         width="22.442142"
+         height="15.892496"
+         x="-91.999527"
+         y="11.963074" />
+      <text
+         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         id="text1959"
+         y="23.318945"
+         x="-82.142677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5181px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.976321"
+         xml:space="preserve"
+         transform="scale(0.98937425,1.0107399)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.976321"
+           y="23.318945"
+           x="-82.142677"
+           id="tspan1957"
+           sodipodi:role="line">JS</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.323;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)"
+       d="m -326.15976,-19.403973 -99.16573,-27.527078"
+       id="path1114"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0323px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06452"
+       x="-369.17343"
+       y="-191.54105"
+       id="text1492"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"><tspan
+         sodipodi:role="line"
+         id="tspan1490"
+         x="-369.17343"
+         y="-191.54105"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.06452">Ejecución de código JS directamente en el ordenador</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="-363.57169"
+       y="-56.975441"
+       id="text1489"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"><tspan
+         sodipodi:role="line"
+         x="-363.57169"
+         y="-56.975441"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059"
+         id="tspan1487">Acceso al sistema</tspan><tspan
+         sodipodi:role="line"
+         x="-363.57169"
+         y="-43.054314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059"
+         id="tspan1493">de ficheros</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.323;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1511);marker-end:url(#marker1521)"
+       d="m -440.1767,124.90561 -0.60683,-152.187448"
+       id="path1507"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="-393.28729"
+       y="30.86278"
+       id="text1627"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"><tspan
+         sodipodi:role="line"
+         x="-393.28729"
+         y="30.86278"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059"
+         id="tspan1625">Acceso al HW</tspan><tspan
+         sodipodi:role="line"
+         x="-393.28729"
+         y="44.783905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059"
+         id="tspan1631">del ordenador</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;stroke:#000000;stroke-width:1.323;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1657"
+       width="127.18832"
+       height="37.854118"
+       x="-504.81024"
+       y="127.19296" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0323px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06452"
+       x="-443.34204"
+       y="151.32651"
+       id="text2452"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"><tspan
+         sodipodi:role="line"
+         id="tspan2450"
+         x="-443.34204"
+         y="151.32651"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.06452">Hardware</tspan></text>
+  </g>
+</svg>
