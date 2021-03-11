@@ -13,7 +13,7 @@
    viewBox="0 0 1174.4805 535.87604"
    version="1.1"
    id="svg1099"
-   inkscape:version="1.0.2 (1c82d34291, 2021-03-05)"
+   inkscape:version="1.0.2 (e2592b633b, 2021-03-11)"
    sodipodi:docname="intro-02.svg">
   <defs
      id="defs1093">
@@ -410,21 +410,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2343.6194"
-     inkscape:cy="1010.3419"
+     inkscape:zoom="0.7"
+     inkscape:cx="1258.706"
+     inkscape:cy="595.19926"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1860"
-     inkscape:window-height="1016"
-     inkscape:window-x="60"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1440"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
   <metadata
@@ -435,7 +435,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -996,17 +996,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0323px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06452"
-       x="-388.43146"
-       y="-117.22351"
+       x="-397.76456"
+       y="-117.09793"
        id="text2452"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-06.png"><tspan
          sodipodi:role="line"
          id="tspan2450"
-         x="-388.43146"
-         y="-117.22351"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.06452">Clliente</tspan></text>
+         x="-397.76456"
+         y="-117.09793"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.06452">Cliente</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
