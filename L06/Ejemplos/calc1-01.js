@@ -10,8 +10,7 @@ const ESTADO = {
     INIT: 0,
     OP1: 1,
     OPERATION: 2,
-    OP2_INIT: 3,
-    OP2: 4
+    OP2: 3
 }
  
  //-- Variable de estado de la calculadora
@@ -34,12 +33,16 @@ function digito(ev)
         //-- Pasar al siguiente estado
         estado = ESTADO.OP1;
 
-    } else if (estado == ESTADO.OP1 || estado == ESTADO.OP2) {
+    } else {
+       
+        //--En cualquier otro estado lo añadimos
         display.innerHTML += ev.target.value;
-    } else if (estado == ESTADO.OPERATION) {
-       display.innerHTML += ev.target.value;
-       estado = ESTADO.OP2;
-    }
+
+        //-- Y nos quedamos en el mismo estado
+        //-- Ojo! Este ejemplo sólo implementa el primer
+        //-- estado del diagrama. Habría que tener en 
+        //-- cuenta el resto... lo debes hacer en tu práctica
+    } 
     
 }
 
@@ -61,20 +64,30 @@ for (let boton of digitos) {
 
 //-------- Resto de funciones de retrollamada
 
-//-- Insertar simbolo de sumar
+//-- Operación de sumar
 suma.onclick = (ev) => {
-  if (estado == ESTADO.OP1) {
+
+    //-- Insertar simbolo de sumar
     display.innerHTML += ev.target.value;
-    estado = ESTADO.OPERATION;
-  }
+
+    //-- ¡Ojo! Aquí se inserta el + siempre!
+    //-- Para que la calculadora funcione bien
+    //-- sólo se debe permitir insertar el operador
+    //-- en el estado OP1, y debe cambiar el estado
+    //-- a OPERATION (según el diagrama de estados)
+  
 }
 
 //-- Evaluar la expresion
 igual.onclick = () => {
-  if (estado == ESTADO.OP2) {
+  
+    //-- Calcular la expresión y añadirla al display
     display.innerHTML = eval(display.innerHTML);
-    estado = ESTADO.OP1;
-  }
+
+    //-- ¡Ojo! Aquí se hace siempre!
+    //-- Sólo se debe permitar que eso se haga
+    //-- si se está en el estado final (OP2)
+  
 }
 
 //-- Poner a cero la expresion
