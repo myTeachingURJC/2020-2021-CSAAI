@@ -1,9 +1,9 @@
 console.log("Ejecutando JS...");
 
-display = document.getElementById("display")
-suma = document.getElementById("suma")
-igual = document.getElementById("igual")
-clear = document.getElementById("clear")
+let display = document.getElementById("display")
+let suma = document.getElementById("suma")
+let igual = document.getElementById("igual")
+let clear = document.getElementById("clear")
 
 //-- Estados de la calculadora
 const ESTADO = {
@@ -33,16 +33,24 @@ function digito(ev)
         //-- Pasar al siguiente estado
         estado = ESTADO.OP1;
 
-    } else {
+    } else if (estado == ESTADO.OP1) {
        
+        console.log("ESTOY EN EL ESTADO OP1");
+
         //--En cualquier otro estado lo añadimos
         display.innerHTML += ev.target.value;
+        estado = ESTADO.OP2;
 
         //-- Y nos quedamos en el mismo estado
         //-- Ojo! Este ejemplo sólo implementa el primer
         //-- estado del diagrama. Habría que tener en 
         //-- cuenta el resto... lo debes hacer en tu práctica
-    } 
+    }  else {
+         //--En cualquier otro estado lo añadimos
+         display.innerHTML += ev.target.value;
+
+    }
+
     
 }
 

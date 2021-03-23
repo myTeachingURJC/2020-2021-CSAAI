@@ -1,13 +1,13 @@
 console.log("Ejecutando JS...");
 
-display = document.getElementById("display")
-suma = document.getElementById("suma")
-igual = document.getElementById("igual")
-clear = document.getElementById("clear")
+let display = document.getElementById("display")
+let suma = document.getElementById("suma")
+let igual = document.getElementById("igual")
+let clear = document.getElementById("clear")
 
 //-- Obtener una colección con todos los elementos
 //-- de la clase digito
-digitos = document.getElementsByClassName("digito")
+let digitos = document.getElementsByClassName("digito")
 
 //-- Establecer la misma función de retrollamada
 //-- para todos los botones de tipo dígito
