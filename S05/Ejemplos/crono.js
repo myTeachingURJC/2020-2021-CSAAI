@@ -37,10 +37,11 @@ class Crono {
     //-- Arrancar el cronómetro
     start() {
         if (!this.timer) {
-            //-- Lanzar el temporizador
+            //-- Lanzar el temporizador para que llame 
+            //-- al método tic cada 10ms (una centésima)
             this.timer = setInterval( () => {
                 this.tic();
-            });
+            }, 10);
         }
     }
 

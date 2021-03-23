@@ -35,7 +35,7 @@ function counter(display)
 
 //-- Crear los dos objetos contadores
 const c1 = new counter(gui.display1);
-const c2 = new counter(gui.display2);
+const c2 = new counter(gui.display1);
 
 //-------- Accciones:
 //-- Contador 1: Incrementar contador
