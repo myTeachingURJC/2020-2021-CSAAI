@@ -10,8 +10,7 @@ const ESTADO = {
     INIT: 0,
     OP1: 1,
     OPERATION: 2,
-    OP2_INIT: 3,
-    OP2: 4
+    OP2: 3
 }
  
  //-- Variable de estado de la calculadora
@@ -34,8 +33,13 @@ function digito(ev)
         //-- Pasar al siguiente estado
         estado = ESTADO.OP1;
 
+      //-- En los estados OP1 y OP2 el digito recibido
+      //-- se añade al display y se permance en el mismo estado
     } else if (estado == ESTADO.OP1 || estado == ESTADO.OP2) {
         display.innerHTML += ev.target.value;
+
+      //-- En el estado OPERATION se añade el digito
+      //-- y se pasa al estado OP2  
     } else if (estado == ESTADO.OPERATION) {
        display.innerHTML += ev.target.value;
        estado = ESTADO.OP2;
@@ -61,18 +65,35 @@ for (let boton of digitos) {
 
 //-------- Resto de funciones de retrollamada
 
-//-- Insertar simbolo de sumar
+//-- Operación de suma
 suma.onclick = (ev) => {
+
+  //-- El operando sólo puede llegar
+  //-- cuando hay un número ya introducido
   if (estado == ESTADO.OP1) {
+
+    //-- Meter el operador en el display
     display.innerHTML += ev.target.value;
+
+    //-- Indicar que ya ha llegado la operación
     estado = ESTADO.OPERATION;
   }
 }
 
 //-- Evaluar la expresion
 igual.onclick = () => {
+
+  //-- La expresión sólo puede evaluar si hemos
+  //-- legado al estado OP2 (donde tenemos el perimer
+  //-- operando, el operador y al menos un dígito del
+  //-- operando 2)
   if (estado == ESTADO.OP2) {
+
+    //-- Calcular resultado
     display.innerHTML = eval(display.innerHTML);
+
+    //-- Pasar el estado OP1, ya que el resultado obtenido
+    //-- hace ahora de primer operador
     estado = ESTADO.OP1;
   }
 }
