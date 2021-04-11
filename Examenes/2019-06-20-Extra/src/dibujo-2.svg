@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="226.76279mm"
+   height="193.00142mm"
+   viewBox="0 0 803.49019 683.86329"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="dibujo-2.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5080"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5101"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5080-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5101-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="335.58468"
+     inkscape:cy="308.11029"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(83.332501,-126.56247)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.05214739;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5048"
+       width="802.43805"
+       height="682.81116"
+       x="-82.806427"
+       y="127.08855"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(83.332501,-126.56247)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="35.799099"
+       y="205.41518"
+       id="text4136"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="35.799099"
+         y="205.41518"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.4658699px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="473.03873"
+       y="205.41518"
+       id="text4136-9"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4138-1"
+         x="473.03873"
+         y="205.41518"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.4658699px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="258.76108"
+       y="207.43549"
+       id="text4136-2"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4138-7"
+         x="258.76108"
+         y="207.43549"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.4658699px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">N</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4409"
+       width="62.629459"
+       height="46.467018"
+       x="239.40614"
+       y="175.54979"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4426"
+       sodipodi:type="arc"
+       sodipodi:cx="43.43655"
+       sodipodi:cy="197.77313"
+       sodipodi:rx="27.274118"
+       sodipodi:ry="27.274118"
+       sodipodi:start="0"
+       sodipodi:end="6.2802532"
+       sodipodi:open="true"
+       d="M 70.710669,197.77313 A 27.274118,27.274118 0 0 1 43.456543,225.04724 27.274118,27.274118 0 0 1 16.162461,197.81312 27.274118,27.274118 0 0 1 43.376572,170.49908 27.274118,27.274118 0 0 1 70.710551,197.69316"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4426-8"
+       sodipodi:type="arc"
+       sodipodi:cx="483.86307"
+       sodipodi:cy="197.77313"
+       sodipodi:rx="27.274118"
+       sodipodi:ry="27.274118"
+       sodipodi:start="0"
+       sodipodi:end="6.2802532"
+       sodipodi:open="true"
+       d="m 511.13719,197.77313 a 27.274118,27.274118 0 0 1 -27.25413,27.27411 27.274118,27.274118 0 0 1 -27.29408,-27.23412 27.274118,27.274118 0 0 1 27.21411,-27.31404 27.274118,27.274118 0 0 1 27.33398,27.19408"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.612761,197.77315 H 238.4699"
+       id="path4445"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 303.48072,197.77315 H 455.62357"
+       id="path4449"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 44.446711,225.223 V 768.1062"
+       id="path4453"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 461.72017,216.65835 V 767.74227"
+       id="path4453-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 241.42645,225.22213 V 767.3928"
+       id="path4453-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 302.03559,225.22358 V 768.46277"
+       id="path4453-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999995, 5.99999972;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 13.471112,266.64791 H 554.88522"
+       id="path4532"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999969;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 13.110704,289.50505 H 554.64774"
+       id="path4532-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999975;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 13.467904,312.71934 H 555.15276"
+       id="path4532-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.9999997;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 12.754219,335.44777 H 555.15216"
+       id="path4532-2-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999973;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 12.40521,358.68128 h 553.8505"
+       id="path4532-2-3-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.9999997;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 12.75315,381.40971 H 553.638"
+       id="path4532-2-3-8-5-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999997, 5.99999974;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 12.396307,403.65229 H 553.6377"
+       id="path4532-2-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999995, 5.99999971;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 11.683333,426.86658 H 554.64654"
+       id="path4532-2-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999995, 5.9999997;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 11.326846,449.59501 H 555.15096"
+       id="path4532-2-3-8-55"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999981;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 13.468014,472.82852 H 555.65773"
+       id="path4532-2-3-8-5-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999998, 5.99999978;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 16.322646,495.55695 H 555.15516"
+       id="path4532-2-3-8-5-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999973;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 16.688445,517.7803 H 567.77342"
+       id="path4532-2-3-8-5-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999972;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 16.679847,540.02288 H 555.66019"
+       id="path4532-2-1-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999979;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.035973,563.23717 H 554.65105"
+       id="path4532-2-3-3-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999998, 5.99999993;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.39645,585.96563 H 555.03643"
+       id="path4532-2-3-8-55-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999995, 5.99999969;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.393173,609.1991 H 555.15606"
+       id="path4532-2-3-8-5-4-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999975;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.035754,631.92753 H 554.88586"
+       id="path4532-2-3-8-5-3-6-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-5.4914594"
+       y="271.63739"
+       id="text4140-36-6-8-8"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8"
+         x="-5.4914594"
+         y="271.63739"
+         style="font-size:18.07175636px;line-height:1.25">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-5.4914594"
+       y="295.37598"
+       id="text4140-36-6-8-8-4"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3"
+         x="-5.4914594"
+         y="295.37598"
+         style="font-size:18.07175636px;line-height:1.25">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.067603"
+       y="319.11456"
+       id="text4140-36-6-8-8-1"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-4"
+         x="-13.067603"
+         y="319.11456"
+         style="font-size:18.07175636px;line-height:1.25">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.57268"
+       y="342.85315"
+       id="text4140-36-6-8-8-4-9"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-2"
+         x="-13.57268"
+         y="342.85315"
+         style="font-size:18.07175636px;line-height:1.25">15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.57268"
+       y="364.06635"
+       id="text4140-36-6-8-8-0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-6"
+         x="-13.57268"
+         y="364.06635"
+         style="font-size:18.07175636px;line-height:1.25">20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-15.087909"
+       y="387.80493"
+       id="text4140-36-6-8-8-4-8"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-9"
+         x="-15.087909"
+         y="387.80493"
+         style="font-size:18.07175636px;line-height:1.25">25</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-14.582832"
+       y="411.54352"
+       id="text4140-36-6-8-8-1-2"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-4-6"
+         x="-14.582832"
+         y="411.54352"
+         style="font-size:18.07175636px;line-height:1.25">30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-14.582832"
+       y="435.2821"
+       id="text4140-36-6-8-8-4-9-6"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-2-4"
+         x="-14.582832"
+         y="435.2821"
+         style="font-size:18.07175636px;line-height:1.25">35</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-14.582832"
+       y="455.99023"
+       id="text4140-36-6-8-8-9"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-5"
+         x="-14.582832"
+         y="455.99023"
+         style="font-size:18.07175636px;line-height:1.25">40</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-14.582832"
+       y="479.72882"
+       id="text4140-36-6-8-8-4-0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-4"
+         x="-14.582832"
+         y="479.72882"
+         style="font-size:18.07175636px;line-height:1.25">45</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-14.582832"
+       y="503.46741"
+       id="text4140-36-6-8-8-1-8"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-4-7"
+         x="-14.582832"
+         y="503.46741"
+         style="font-size:18.07175636px;line-height:1.25">50</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.57268"
+       y="527.20599"
+       id="text4140-36-6-8-8-4-9-1"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-2-7"
+         x="-13.57268"
+         y="527.20599"
+         style="font-size:18.07175636px;line-height:1.25">55</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.57268"
+       y="548.41919"
+       id="text4140-36-6-8-8-0-2"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-6-7"
+         x="-13.57268"
+         y="548.41919"
+         style="font-size:18.07175636px;line-height:1.25">60</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.57268"
+       y="572.15778"
+       id="text4140-36-6-8-8-4-8-2"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-9-2"
+         x="-13.57268"
+         y="572.15778"
+         style="font-size:18.07175636px;line-height:1.25">65</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.57268"
+       y="595.89636"
+       id="text4140-36-6-8-8-1-2-6"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-4-6-1"
+         x="-13.57268"
+         y="595.89636"
+         style="font-size:18.07175636px;line-height:1.25">70</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.57268"
+       y="619.63495"
+       id="text4140-36-6-8-8-4-9-6-0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-2-4-6"
+         x="-13.57268"
+         y="619.63495"
+         style="font-size:18.07175636px;line-height:1.25">75</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.57268"
+       y="639.33295"
+       id="text4140-36-6-8-8-4-9-6-0-1"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-2-4-6-5"
+         x="-13.57268"
+         y="639.33295"
+         style="font-size:18.07175636px;line-height:1.25">80</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-530.0769"
+       y="-48.461514"
+       id="text4140-36-6-8-9"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-4"
+         x="-530.0769"
+         y="-48.461514"
+         style="font-size:18.07175636px;line-height:1.25">Tiempo (ms)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-433.1423"
+       y="588.13763"
+       id="text4140-36-6-8-9-9"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-4-0"
+         x="-433.1423"
+         y="588.13763"
+         style="font-size:18.07175636px;line-height:1.25">Playout mínimo</tspan><tspan
+         sodipodi:role="line"
+         x="-433.1423"
+         y="610.72736"
+         id="tspan5406"
+         style="font-size:18.07175636px;line-height:1.25"> (35ms)</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow2Mend)"
+       d="M 565.07339,361.49106 V 516.80223"
+       id="path5068"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4530"
+       width="18.861172"
+       height="92.428955"
+       x="32.238205"
+       y="266.46353"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.761631"
+       y="319.61963"
+       id="text4140-36-6-8-8-6"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-7"
+         x="36.761631"
+         y="319.61963"
+         style="font-size:18.07175636px;line-height:1.25">1</tspan></text>
+    <g
+       id="g4381"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         y="359.39755"
+         x="32.238205"
+         height="92.428955"
+         width="18.891808"
+         id="rect4530-3"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         id="text4140-36-6-8-8-6-5"
+         y="408.54819"
+         x="36.761631"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="408.54819"
+           x="36.761631"
+           id="tspan4142-0-2-6-8-7-3"
+           sodipodi:role="line"
+           style="font-size:18.07175636px;line-height:1.25">2</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4530-5"
+       width="18.861172"
+       height="92.428955"
+       x="231.52393"
+       y="266.67276"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="236.04735"
+       y="320.33392"
+       id="text4140-36-6-8-8-6-6"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-7-2"
+         x="236.04735"
+         y="320.33392"
+         style="font-size:18.07175636px;line-height:1.25">1</tspan></text>
+    <g
+       id="g4352"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         y="381.46353"
+         x="292.23822"
+         height="92.428955"
+         width="18.861172"
+         id="rect4530-5-9"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         id="text4140-36-6-8-8-6-6-1"
+         y="434.61963"
+         x="296.76163"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="434.61963"
+           x="296.76163"
+           id="tspan4142-0-2-6-8-7-2-2"
+           sodipodi:role="line"
+           style="font-size:18.07175636px;line-height:1.25">1</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 510.29164,208.09527 V 768.68616"
+       id="path4453-9-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(160.00001,2.4513586e-6)"
+       id="g4352-0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         y="381.46353"
+         x="292.23822"
+         height="92.428955"
+         width="18.861172"
+         id="rect4530-5-9-9"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         id="text4140-36-6-8-8-6-6-1-3"
+         y="434.61963"
+         x="296.76163"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="434.61963"
+           x="296.76163"
+           id="tspan4142-0-2-6-8-7-2-2-6"
+           sodipodi:role="line"
+           style="font-size:18.07175636px;line-height:1.25">1</tspan></text>
+    </g>
+    <g
+       transform="matrix(1,0,0,0.98907104,199.28572,2.9176911)"
+       id="g4381-0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         y="359.39755"
+         x="32.238205"
+         height="92.428955"
+         width="18.891808"
+         id="rect4530-3-6"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1.00550961;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         id="text4140-36-6-8-8-6-5-2"
+         y="408.54819"
+         x="36.761631"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="408.54819"
+           x="36.761631"
+           id="tspan4142-0-2-6-8-7-3-6"
+           sodipodi:role="line"
+           style="font-size:18.07175636px;line-height:1.25">2</tspan></text>
+    </g>
+    <g
+       transform="translate(259.64287,158.92858)"
+       id="g4381-0-1"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         y="359.39755"
+         x="32.238205"
+         height="92.428955"
+         width="18.891808"
+         id="rect4530-3-6-8"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         id="text4140-36-6-8-8-6-5-2-7"
+         y="408.54819"
+         x="36.761631"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="408.54819"
+           x="36.761631"
+           id="tspan4142-0-2-6-8-7-3-6-9"
+           sodipodi:role="line"
+           style="font-size:18.07175636px;line-height:1.25">2</tspan></text>
+    </g>
+    <g
+       transform="translate(420.35716,158.21429)"
+       id="g4381-0-1-7"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         y="359.39755"
+         x="32.238205"
+         height="92.428955"
+         width="18.891808"
+         id="rect4530-3-6-8-5"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         id="text4140-36-6-8-8-6-5-2-7-9"
+         y="408.54819"
+         x="36.761631"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="408.54819"
+           x="36.761631"
+           id="tspan4142-0-2-6-8-7-3-6-9-2"
+           sodipodi:role="line"
+           style="font-size:18.07175636px;line-height:1.25">2</tspan></text>
+    </g>
+    <g
+       transform="translate(208.48733,136.30932)"
+       id="g4352-0-2"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         y="381.46353"
+         x="292.23822"
+         height="92.428955"
+         width="18.861172"
+         id="rect4530-5-9-9-8"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         id="text4140-36-6-8-8-6-6-1-3-9"
+         y="434.61963"
+         x="296.76163"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="434.61963"
+           x="296.76163"
+           id="tspan4142-0-2-6-8-7-2-2-6-7"
+           sodipodi:role="line"
+           style="font-size:18.07175636px;line-height:1.25">1</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999975;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 16.67888,653.85173 H 554.73766"
+       id="path4532-2-3-8-5-3-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999976;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 16.679485,676.45145 H 555.15547"
+       id="path4532-2-1-7-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999996, 5.99999979;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.036328,699.66574 H 555.15577"
+       id="path4532-2-3-3-2-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999998, 5.99999993;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.396447,722.3942 H 555.03642"
+       id="path4532-2-3-8-55-7-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999995, 5.99999971;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.39317,745.62768 H 555.15605"
+       id="path4532-2-3-8-5-4-4-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99999995, 5.99999972;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.036686,768.3561 H 555.66048"
+       id="path4532-2-3-8-5-3-6-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.572685"
+       y="663.63458"
+       id="text4140-36-6-8-8-4-9-1-0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-2-7-3"
+         x="-13.572685"
+         y="663.63458"
+         style="font-size:18.07175636px;line-height:1.25">85</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.572685"
+       y="684.84778"
+       id="text4140-36-6-8-8-0-2-6"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-6-7-1"
+         x="-13.572685"
+         y="684.84778"
+         style="font-size:18.07175636px;line-height:1.25">90</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.572685"
+       y="708.58636"
+       id="text4140-36-6-8-8-4-8-2-0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-9-2-6"
+         x="-13.572685"
+         y="708.58636"
+         style="font-size:18.07175636px;line-height:1.25">95</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-24.684362"
+       y="732.32495"
+       id="text4140-36-6-8-8-1-2-6-3"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-4-6-1-2"
+         x="-24.684362"
+         y="732.32495"
+         style="font-size:18.07175636px;line-height:1.25">100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-24.684362"
+       y="756.06354"
+       id="text4140-36-6-8-8-4-9-6-0-0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-2-4-6-6"
+         x="-24.684362"
+         y="756.06354"
+         style="font-size:18.07175636px;line-height:1.25">105</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-24.684362"
+       y="775.76154"
+       id="text4140-36-6-8-8-4-9-6-0-1-1"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-8-3-2-4-6-5-5"
+         x="-24.684362"
+         y="775.76154"
+         style="font-size:18.07175636px;line-height:1.25">110</tspan></text>
+    <g
+       transform="matrix(1,0,0,0.96721311,468.2143,262.85496)"
+       id="g4381-0-1-7-3"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         y="359.39755"
+         x="32.238205"
+         height="92.428955"
+         width="18.891808"
+         id="rect4530-3-6-8-5-6"
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1.01680779;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-10-11-sol.png"
+         id="text4140-36-6-8-8-6-5-2-7-9-1"
+         y="408.54819"
+         x="36.761631"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="408.54819"
+           x="36.761631"
+           id="tspan4142-0-2-6-8-7-3-6-9-2-2"
+           sodipodi:role="line"
+           style="font-size:18.07175636px;line-height:1.25">2</tspan></text>
+    </g>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41848922;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-7)"
+       d="M 557.89555,539.87423 526.79047,518.78725"
+       id="path5068-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="633.45789"
+       y="552.04163"
+       id="text4140-36-6-8-9-9-5"
+       inkscape:export-filename="/home/obijuan/develop/urjc/docencia/Curso-2018-q2/Construccion-servicios-aplicaciones-audiovisuales-internet-CSAAI/2018-05-18-ordinario/pregunta-13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4142-0-2-6-4-0-6"
+         x="633.45789"
+         y="552.04163"
+         style="font-size:18.07175636px;line-height:1.25;stroke-width:1.00000012px">Comienzo de</tspan><tspan
+         sodipodi:role="line"
+         x="633.45789"
+         y="574.63135"
+         style="font-size:18.07175636px;line-height:1.25;stroke-width:1.00000012px"
+         id="tspan2629">la reproducción</tspan><tspan
+         sodipodi:role="line"
+         x="633.45789"
+         y="597.22101"
+         id="tspan5406-2"
+         style="font-size:18.07175636px;line-height:1.25;stroke-width:1.00000012px"> (t=55ms)</tspan></text>
+  </g>
+</svg>
