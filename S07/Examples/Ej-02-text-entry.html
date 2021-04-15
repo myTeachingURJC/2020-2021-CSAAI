@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="Ej-02.js" defer></script>
+    <title>Ejemplo 2: Entradas de texto</title>
+</head>
+<body>
+    <h2>Ej-2: Entradas de texto</h2>
+    <hr>
+    <h3>Normal</h3>
+    <p> Text <input type="text" id="text1"> <span id="text1_disp"></span></p>
+    <p> Text <input type="text" id="text2" maxlength=10 placeholder="Max. 10 caracteres"> 
+        <span id="text2_disp"></span>
+    </p>
+    <p>
+        Text
+        <input type="text" list="items" placeholder="Con valores predefinidos...."/>
+            <!-- Lista de opciones -->
+            <datalist id="items">
+                <option value="1">Opción 1</option>
+                <option value="2">Opción 2</option>
+                <option value="3">Opción 3</option>
+            </datalist>
+    </p>
+    <h3>Oculto</h3>
+    <p>password <input type="password" maxlength=10 id="passw"> <span id="passw_disp"></span>  </p>
+        
+</body>
+</html>
