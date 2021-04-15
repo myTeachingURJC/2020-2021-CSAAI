@@ -9,7 +9,9 @@ const range_disp = document.getElementById("range_disp");
 const range_disp2 = document.getElementById("range_disp2");
 
 num1.onchange = () => {
-    num1_disp.innerHTML = num1.value;
+    if (num1.value != "") {
+      num1_disp.innerHTML = num1.value;
+    }
 }
 
 range.oninput = () => {
