@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="Ej-03.js" defer></script>
+    <title>Ejemplo 3: Entrada de números</title>
+</head>
+<body>
+    <h2>Ej-3: Entrada de números</h2>
+    <hr>
+    <h3>Caja de texto</h3>
+    <p> Number <input type="number" id="num1"> <span id="num1_disp"></span></p>
+    <h3>Deslizador</h3>
+    <p>Range <input type="range" id="range"> <span id="range_disp"></span>  
+        Valor final: <span id="range_disp2"></span>
+    </p>
+        
+</body>
+</html>
