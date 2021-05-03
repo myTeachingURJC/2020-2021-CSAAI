@@ -164,9 +164,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69999999"
-     inkscape:cx="677.34732"
-     inkscape:cy="384.11305"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="1050.9561"
+     inkscape:cy="463.28026"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -179,7 +179,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -198,7 +198,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(195.82121,165.34244)">
+     transform="translate(195.82121,165.34244)"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;stroke:none;stroke-width:0.75285065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect22641"
@@ -711,66 +712,6 @@
          id="tspan20784"
          sodipodi:role="line">Nodo 1</tspan></text>
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect20788"
-       width="8.6934528"
-       height="21.166666"
-       x="88.085541"
-       y="-59.715908"
-       rx="0.53845352"
-       ry="0.53845352"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect20790"
-       width="8.6934528"
-       height="21.166666"
-       x="96.778992"
-       y="-59.715908"
-       rx="0.53845352"
-       ry="0.53845352"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect20792"
-       width="8.6934528"
-       height="21.166666"
-       x="105.47243"
-       y="-59.715908"
-       rx="0.53845352"
-       ry="0.53845352"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect20794"
-       width="8.6934528"
-       height="21.166666"
-       x="114.16588"
-       y="-59.715908"
-       rx="0.53845352"
-       ry="0.53845352"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect20796"
-       width="8.6934528"
-       height="21.166666"
-       x="122.85933"
-       y="-59.715908"
-       rx="0.53845352"
-       ry="0.53845352"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
        style="fill:#999999;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect20798"
        width="8.6934528"
@@ -805,30 +746,6 @@
          x="103.85636"
          y="-97.967476"
          style="fill:#0000ff;stroke-width:0.26458332">Nodo 4</tspan></text>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
-       ry="0.53845352"
-       rx="0.53845352"
-       y="-59.715908"
-       x="131.55278"
-       height="21.166666"
-       width="8.6934528"
-       id="rect20806"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect20808"
-       width="8.6934528"
-       height="21.166666"
-       x="140.24623"
-       y="-59.715908"
-       rx="0.53845352"
-       ry="0.53845352"
-       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:export-ydpi="90"
@@ -836,11 +753,11 @@
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
        inkscape:connector-curvature="0"
        id="path20816"
-       d="m 29.586307,-98.541766 58.205566,42.940471"
+       d="m 29.586307,-98.541766 57.071637,42.562495"
        style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker20820)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker21210)"
-       d="M 28.830355,5.7002567 87.413897,-47.067595"
+       d="M 28.830355,5.7002567 86.846933,-44.988726"
        id="path21206"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
@@ -869,5 +786,89 @@
          x="94.907379"
          y="-71.251915"
          style="fill:#000000;stroke-width:0.26458332">Cola llena</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
+       ry="0.53845352"
+       rx="0.53845352"
+       y="-59.715908"
+       x="140.24623"
+       height="21.166666"
+       width="8.6934528"
+       id="rect1002"
+       style="fill:#999999;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
+       ry="0.53845352"
+       rx="0.53845352"
+       y="-59.715908"
+       x="131.55278"
+       height="21.166666"
+       width="8.6934528"
+       id="rect1004"
+       style="fill:#999999;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#999999;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1006"
+       width="8.6934528"
+       height="21.166666"
+       x="122.85933"
+       y="-59.715908"
+       rx="0.53845352"
+       ry="0.53845352"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
+       ry="0.53845352"
+       rx="0.53845352"
+       y="-59.715908"
+       x="114.16588"
+       height="21.166666"
+       width="8.6934528"
+       id="rect1008"
+       style="fill:#999999;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#999999;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1010"
+       width="8.6934528"
+       height="21.166666"
+       x="105.47243"
+       y="-59.715908"
+       rx="0.53845352"
+       ry="0.53845352"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#999999;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1012"
+       width="8.6934528"
+       height="21.166666"
+       x="96.778976"
+       y="-59.715908"
+       rx="0.53845352"
+       ry="0.53845352"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-09.png"
+       ry="0.53845352"
+       rx="0.53845352"
+       y="-59.715908"
+       x="88.085526"
+       height="21.166666"
+       width="8.6934528"
+       id="rect1014"
+       style="fill:#999999;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
