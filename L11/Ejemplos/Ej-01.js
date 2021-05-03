@@ -5,6 +5,8 @@ const canvas = document.getElementById('canvas');
 const img = document.getElementById('imagesrc')
 const ctx = canvas.getContext('2d');
 
+img.on
+
 //-- Función de retrollamada de imagen cargada
 //-- La imagen no se carga instantaneamente, sino que
 //-- lleva un tiempo. Sólo podemos acceder a ella una vez
