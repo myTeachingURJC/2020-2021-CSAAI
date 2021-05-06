@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="389.1431mm"
    height="205.6109mm"
    viewBox="0 0 389.14309 205.6109"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1-rc (52f87abb86, 2021-05-02)"
-   sodipodi:docname="Ejercicio-1.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Ejercicio-1.svg">
   <defs
      id="defs2">
     <marker
@@ -236,14 +236,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50345081"
-     inkscape:cx="791.53712"
-     inkscape:cy="369.4502"
+     inkscape:zoom="0.63027907"
+     inkscape:cx="1223.5545"
+     inkscape:cy="373.10814"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -257,7 +257,13 @@
      objecttolerance="10.0"
      gridtolerance="10.0"
      guidetolerance="10.0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0">
+    <sodipodi:guide
+       position="354.42869,28.14764"
+       orientation="0,1"
+       id="guide1098"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -273,7 +279,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(-0.15127577,-19.523937)">
+     transform="translate(-0.15127577,-19.523937)"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1014"
@@ -565,14 +572,14 @@
          id="tspan11152">5ms</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.147px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="276.90976"
-       y="28.582838"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14699984px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       x="267.67444"
+       y="171.31062"
        id="text11158"><tspan
          sodipodi:role="line"
-         x="276.90976"
-         y="28.582838"
-         style="fill:#008000;stroke-width:0.264583"
+         x="267.67444"
+         y="171.31062"
+         style="fill:#008000;stroke-width:0.26458299"
          id="tspan11156">5ms</tspan></text>
     <text
        xml:space="preserve"
@@ -585,5 +592,87 @@
          y="28.582838"
          style="fill:#008000;stroke-width:0.264583"
          id="tspan11160">1ms</tspan></text>
+    <rect
+       y="75.06871"
+       x="104.47839"
+       height="20.967508"
+       width="7.3492365"
+       id="rect1064"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458299;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1070"
+       y="103.34299"
+       x="118.02277"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14699984px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       xml:space="preserve"><tspan
+         id="tspan1068"
+         style="fill:#008000;stroke-width:0.26458299"
+         y="103.34299"
+         x="118.02277"
+         sodipodi:role="line">5ms</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458299;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1074"
+       width="7.3492365"
+       height="20.967508"
+       x="139.32077"
+       y="107.29149" />
+    <rect
+       y="107.29149"
+       x="167.86633"
+       height="20.967508"
+       width="7.3492365"
+       id="rect1076"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458299;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1082"
+       y="135.83856"
+       x="181.01237"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14699984px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       xml:space="preserve"><tspan
+         id="tspan1080"
+         style="fill:#008000;stroke-width:0.26458299"
+         y="135.83856"
+         x="181.01237"
+         sodipodi:role="line">1ms</tspan></text>
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458299;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1086"
+       width="7.3492365"
+       height="20.967508"
+       x="203.96806"
+       y="139.49817" />
+    <rect
+       y="139.49817"
+       x="252.24364"
+       height="20.967508"
+       width="7.3492365"
+       id="rect1090"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458299;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458299;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1094"
+       width="7.3492365"
+       height="20.967508"
+       x="287.8638"
+       y="176.01968" />
+    <rect
+       y="176.01968"
+       x="347.23074"
+       height="20.967508"
+       width="7.3492365"
+       id="rect1096"
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458299;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1102"
+       y="151.33679"
+       x="376.37354"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98118019px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       xml:space="preserve"><tspan
+         id="tspan1100"
+         style="stroke-width:0.26458299"
+         y="151.33679"
+         x="376.37354"
+         sodipodi:role="line">91ms</tspan></text>
   </g>
 </svg>
