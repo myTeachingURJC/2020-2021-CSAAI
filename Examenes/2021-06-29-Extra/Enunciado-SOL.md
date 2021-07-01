@@ -1,8 +1,8 @@
-# Examen Parcial: 2021-06-28
+# Examen Final: 2021-06-29
 
 * **Tiempo**: 2h 
 * **Descripción**: Examen extraordinario de CSAAI
-* **Fecha**: 2021/Junio/28
+* **Fecha**: 2021/Junio/29
 * **Formato**: Presencial. Realizado a través de Aula virtual (sin internet)
 * **Puntuación**: Todas las preguntas valen 0.5. Las preguntas incorrectas No restan
 * **Temario**: Entra todo lo visto tanto en teoría como en práctica hasta el momento:
